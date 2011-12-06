@@ -1,0 +1,10 @@
+syntax: regexp
+^src/llfuse\.egg-info$
+^build$
+\.pyc$
+^dist$
+^doc/html$
+^doc/doctrees$
+^src/llfuse.c$
+
+glob:src/*.so
